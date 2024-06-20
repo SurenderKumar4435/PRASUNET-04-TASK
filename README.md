@@ -1,1 +1,1 @@
-## Here I am predict Twitter entity sentimeny analysis--------->>
+## Here I am predict Twitter entity sentimeny analysis by using NLP and machine learning Algorithm--------->>
